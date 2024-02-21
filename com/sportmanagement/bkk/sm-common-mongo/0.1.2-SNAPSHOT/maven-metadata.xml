@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>com.sportmanagement.bkk</groupId>
-  <artifactId>sm-common-models</artifactId>
+  <artifactId>sm-common-mongo</artifactId>
   <version>0.1.2-SNAPSHOT</version>
   <versioning>
     <snapshot>
