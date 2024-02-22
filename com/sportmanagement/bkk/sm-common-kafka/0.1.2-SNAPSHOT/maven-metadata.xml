@@ -5,38 +5,38 @@
   <version>0.1.2-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20240222.005844</timestamp>
+      <timestamp>20240222.094653</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20240222005844</lastUpdated>
+    <lastUpdated>20240222094653</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.1.2-20240222.005844-1</value>
-        <updated>20240222005844</updated>
+        <value>0.1.2-20240222.094653-1</value>
+        <updated>20240222094653</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.1.2-20240222.005844-1</value>
-        <updated>20240222005844</updated>
+        <value>0.1.2-20240222.094653-1</value>
+        <updated>20240222094653</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.1.2-20240222.005844-1</value>
-        <updated>20240222005844</updated>
+        <value>0.1.2-20240222.094653-1</value>
+        <updated>20240222094653</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>test-sources</classifier>
         <extension>jar</extension>
-        <value>0.1.2-20240222.005844-1</value>
-        <updated>20240222005844</updated>
+        <value>0.1.2-20240222.094653-1</value>
+        <updated>20240222094653</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>tests</classifier>
         <extension>jar</extension>
-        <value>0.1.2-20240222.005844-1</value>
-        <updated>20240222005844</updated>
+        <value>0.1.2-20240222.094653-1</value>
+        <updated>20240222094653</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
