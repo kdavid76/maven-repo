@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>com.sportmanagement.bkk</groupId>
-  <artifactId>sm-parent</artifactId>
-  <version>0.1.6-SNAPSHOT</version>
+  <artifactId>sm-common</artifactId>
+  <version>0.1.2-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20240222.005258</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20240222.005844</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20240222005258</lastUpdated>
+    <lastUpdated>20240222005844</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.1.6-20240222.005258-2</value>
-        <updated>20240222005258</updated>
+        <value>0.1.2-20240222.005844-1</value>
+        <updated>20240222005844</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
