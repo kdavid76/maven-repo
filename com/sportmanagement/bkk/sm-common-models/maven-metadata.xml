@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.sportmanagement.bkk</groupId>
-  <artifactId>sm-common</artifactId>
+  <artifactId>sm-common-models</artifactId>
   <versioning>
     <versions>
       <version>0.1.2-SNAPSHOT</version>
