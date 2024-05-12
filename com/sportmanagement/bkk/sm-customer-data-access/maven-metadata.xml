@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.sportmanagement.bkk</groupId>
+  <artifactId>sm-customer-data-access</artifactId>
+  <versioning>
+    <release>0.1.2</release>
+    <versions>
+      <version>0.1.2</version>
+    </versions>
+    <lastUpdated>20240512222831</lastUpdated>
+  </versioning>
+</metadata>
