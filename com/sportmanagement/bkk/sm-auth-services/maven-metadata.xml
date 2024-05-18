@@ -3,10 +3,9 @@
   <groupId>com.sportmanagement.bkk</groupId>
   <artifactId>sm-auth-services</artifactId>
   <versioning>
-    <release>0.1.2</release>
     <versions>
-      <version>0.1.2</version>
+      <version>0.1.2-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20240517234423</lastUpdated>
+    <lastUpdated>20240518134713</lastUpdated>
   </versioning>
 </metadata>
