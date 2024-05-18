@@ -2,36 +2,36 @@
 <metadata modelVersion="1.1.0">
   <groupId>com.sportmanagement.bkk</groupId>
   <artifactId>sm-auth-data-access</artifactId>
+  <version>0.1.2-SNAPSHOT</version>
   <versioning>
-    <lastUpdated>20240517230749</lastUpdated>
     <snapshot>
-      <timestamp>20240517.230749</timestamp>
+      <timestamp>20240518.134713</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
+    <lastUpdated>20240518134713</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.1.2-20240517.230749-1</value>
-        <updated>20240517230749</updated>
+        <value>0.1.2-20240518.134713-1</value>
+        <updated>20240518134713</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.1.2-20240517.230749-1</value>
-        <updated>20240517230749</updated>
+        <value>0.1.2-20240518.134713-1</value>
+        <updated>20240518134713</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.1.2-20240517.230749-1</value>
-        <updated>20240517230749</updated>
+        <value>0.1.2-20240518.134713-1</value>
+        <updated>20240518134713</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>test-sources</classifier>
         <extension>jar</extension>
-        <value>0.1.2-20240517.230749-1</value>
-        <updated>20240517230749</updated>
+        <value>0.1.2-20240518.134713-1</value>
+        <updated>20240518134713</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
-  <version>0.1.2-SNAPSHOT</version>
 </metadata>
